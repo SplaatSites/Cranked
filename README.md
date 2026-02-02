@@ -1,4 +1,8 @@
 # Cranked
+This is a fork of the original *Cranked*.
+
+Below is the original description.
+
 *Cranked* is a work in progress unofficial Playdate Console emulator. This project aims to provide an open source way of running
 Playdate console games on a variety of platforms. They Playdate SDK does include a Simulator program for use in development of 
 Playdate games, but it is unable to play game compiled for an actual Playdate console and requires a binary to be compiled for 
